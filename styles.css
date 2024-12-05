@@ -88,7 +88,8 @@ body {
 
 .radio-input:checked + .content {
   border-color: #2260ff;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 0 0 0 4px #b5c9fc;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 
+              0 0 0 4px #b5c9fc;
 }
 
 .radio-input:checked + .content::before {
